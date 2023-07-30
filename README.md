@@ -5,6 +5,6 @@ This repository is my personal list of all the python projects that I have compl
 
 ## List
 
-- [ai/size-limit](https://github.com/ekasnh/Python-Projects/tree/main/NotepadGUI) - This is a demo notepad GUI application made using tkinter library.
-- [aimeos/aimeos-typo3](https://github.com/ekasnh/Python-Projects/tree/main/ImagetoToonConvertor) - This project converts normal image to animated image.
-- [ajeetdsouza/zoxide](https://github.com/ekasnh/Python-Projects/tree/main/GetInfoPhoneNumber) - This project retrieve information of caller by their phone number
+- [NotepadGUI](https://github.com/ekasnh/Python-Projects/tree/main/NotepadGUI) - This is a demo notepad GUI application made using tkinter library.
+- [ImageToToonConvertor](https://github.com/ekasnh/Python-Projects/tree/main/ImagetoToonConvertor) - This project converts normal image to animated image.
+- [GetInfoPhoneNumber](https://github.com/ekasnh/Python-Projects/tree/main/GetInfoPhoneNumber) - This project retrieve information of caller by their phone number
