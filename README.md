@@ -8,3 +8,4 @@ This repository is my personal list of all the python projects that I have compl
 - [NotepadGUI](https://github.com/ekasnh/Python-Projects/tree/main/NotepadGUI) - This is a demo notepad GUI application made using tkinter library.
 - [ImageToToonConvertor](https://github.com/ekasnh/Python-Projects/tree/main/ImagetoToonConvertor) - This project converts normal image to animated image.
 - [GetInfoPhoneNumber](https://github.com/ekasnh/Python-Projects/tree/main/GetInfoPhoneNumber) - This project retrieve information of caller by their phone number
+- [Implementing_Logic_gates_using_perceptron](https://github.com/ekasnh/Python-Projects/tree/main/GetInfoPhoneNumber) - This project is used for implementing_Logic_gates_using_perceptron
