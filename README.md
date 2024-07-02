@@ -1,7 +1,7 @@
 # Python Projects [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Here is the list of all the projects
 
-This repository is my personal list of all the python projects that I have completed while 100 days of python.
+This repository is my personal list of all the python projects that we have completed while 100 days of python.
 
 ## List
 
