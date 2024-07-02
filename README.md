@@ -1,7 +1,10 @@
-# Python Projects [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+![image](https://github.com/ekasnh/Python-Projects/assets/68435362/f9810c6d-dcda-456b-a952-4de05d900905)![image](https://github.com/ekasnh/Python-Projects/assets/68435362/209df0c6-86ca-4300-927d-03664a8e73d2)# Python Projects [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > Here is the list of all the projects
 
 This repository is my personal list of all the python projects that we had completed in 100 days of python projects.
+## Books that we recommend
+
+
 
 ## List
 
