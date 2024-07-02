@@ -23,7 +23,7 @@ This repository is my personal list of all the python projects that we had compl
 | **Programming Collective Intelligence**          | Toby Segaran                     | Machine Learning, Data Mining, AI         | Intermediate   |
 
 
-## List
+## List of projects above ✔
 
 - [NotepadGUI](https://github.com/ekasnh/Python-Projects/tree/main/NotepadGUI) - This is a demo notepad GUI application made using tkinter library.
 - [ImageToToonConvertor](https://github.com/ekasnh/Python-Projects/tree/main/ImagetoToonConvertor) - This project converts normal image to animated image.
