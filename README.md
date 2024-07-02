@@ -10,3 +10,4 @@ This repository is my personal list of all the python projects that I have compl
 - [GetInfoPhoneNumber](https://github.com/ekasnh/Python-Projects/tree/main/GetInfoPhoneNumber) - This project retrieve information of caller by their phone number
 - [Implementing_Logic_gates_using_perceptron](https://github.com/ekasnh/Python-Projects/blob/main/implementing_logic_gates_using_perceptron.py) - This project is used for implementing_Logic_gates_using_perceptron.
 - [VideoGameSalesPrediction](https://github.com/ekasnh/Python-Projects/tree/main/video%20game%20prediction) - This project is used for video game sales predictionby using pre-defined dataset by kaggle.
+- [Email Scheduler] - This project is used for scheduling emails
