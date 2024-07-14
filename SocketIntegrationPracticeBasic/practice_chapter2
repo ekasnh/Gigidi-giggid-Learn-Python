@@ -1,0 +1,2 @@
+name = "ssjkjs"
+print(name[1])

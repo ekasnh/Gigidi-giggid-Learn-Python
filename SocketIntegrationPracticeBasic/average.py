@@ -1,0 +1,5 @@
+number1 = int(input("number2 "))
+number2 = int(input("number3 "))
+number3 = int(input("number1 "))
+number1,number3,number2 = input("enter ").split(",")
+print(int((number3+number1+number2)/3))
