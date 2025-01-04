@@ -131,13 +131,4 @@ Thank you for your interest in contributing to the Python Learn repository! We a
 - **Feedback:** Be open to feedback and ready to make necessary changes.
 - **Respect:** Be respectful and considerate in your interactions with other contributors and maintainers.
 
-## Community Guidelines
-
-- **Respect:** Treat everyone with respect. Be polite and considerate in your communication.
-- **Collaboration:** Be open to collaboration and willing to help others.
-- **Inclusivity:** Strive to create an inclusive and welcoming environment for everyone.
-
 Thank you for contributing to the Python Learn repository! Your efforts help make this a valuable resource for learners around the world.
-
-## Licensed under
-This work is licensed under CC BY-NC-SA 4.0 
