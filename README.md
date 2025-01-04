@@ -138,3 +138,6 @@ Thank you for your interest in contributing to the Python Learn repository! We a
 - **Inclusivity:** Strive to create an inclusive and welcoming environment for everyone.
 
 Thank you for contributing to the Python Learn repository! Your efforts help make this a valuable resource for learners around the world.
+
+## Licensed under
+This work is licensed under CC BY-NC-SA 4.0 
