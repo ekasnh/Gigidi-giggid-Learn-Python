@@ -64,6 +64,14 @@ This repository contains a curated list of all Python projects completed over th
 | Sololearn                | [Link](https://www.sololearn.com/Course/Python/) | Interactive Python tutorials and exercises             | Beginner       |
 | Exercism                 | [Link](https://exercism.io/tracks/python)  | Python exercises with mentor feedback                  | Intermediate   |
 
+## Important links to refer
+
+| Topic covered             | URL                                      | Description                                            | Level          |
+|--------------------------|------------------------------------------|--------------------------------------------------------|----------------|
+|System design             | [Link](https://github.com/InterviewReady/system-design-resources) | For system design interviews                           | Beginner to advance       |
+|Whitepaper                | [Link](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers) |   | Beginner to Advanced |
+|Intro to Programming and Data Science (Summer 2021) | [Link](https://wiki.communitydata.science/Intro_to_Programming_and_Data_Science_(Summer_2021))| Python courses from universities | Beginner to Advanced |
+
 ## Contact
 Information on how to get in touch with the repository maintainer(s).
 Join our online community - [matrix.org](https://matrix.to/#/!IJdUDeRmwSUjKOSmHi:matrix.org?via=matrix.org)
